@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ning Li</h1>
+<h1 align="center">Hello 👋, I'm Ning Li</h1>
 <h4 >I am a web developer experienced in MERN & MEVN stack. In 2022, I graduated from the Lighthouse Labs Web Development Bootcamp. 
 My problem-solving skills and strengths in creating features to perfect projects make me a strong web developer. 
 I enjoy collaboration, learning new tools and taking on new responsibilities.</h4>
